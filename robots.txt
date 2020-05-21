@@ -1,1 +1,1 @@
-Sitemap: https://larryhz.github.io/layer-cake/sitemap.xml
+Sitemap: larryzhong.com/sitemap.xml
