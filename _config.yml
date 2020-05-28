@@ -46,7 +46,7 @@ minima:
 use_math: 
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: false
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
@@ -68,9 +68,9 @@ include:
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
-  github: true
-  binder: true
-  colab: true
+  github: false
+  binder: false
+  colab: false
 
 # Escape HTML in post descriptions
 html_escape:
